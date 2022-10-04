@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Fri Sep 30 14:46:50 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Sequence_Generator
+Top-level Entity Name : TopLevel
+Family : MAX 10
+Device : 10M25SCE144C8G
+Power Models : Final
+Total Thermal Power Dissipation : 231.63 mW
+Core Dynamic Thermal Power Dissipation : 1.57 mW
+Core Static Thermal Power Dissipation : 223.02 mW
+I/O Thermal Power Dissipation : 7.04 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
