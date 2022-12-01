@@ -1,3 +1,0 @@
-cable ft2232
-bsdl path d:\EP4CE10E222.bsd
-detect

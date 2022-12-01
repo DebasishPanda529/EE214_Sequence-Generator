@@ -1,3 +1,0 @@
-cable ft2232
-detect
-svf svf4Kv11/counter50MHz.svf
